@@ -1,0 +1,7 @@
+{
+  "itemGroup.flexhud": "Example Mod Tab",
+  "block.flexhud.example_block": "Example Block",
+  "item.flexhud.example_item": "Example Item",
+  "key.categories.flexhud": "FlexHUD",
+  "key.flexhud.open_config": "Open FlexHUD Configuration"
+}
